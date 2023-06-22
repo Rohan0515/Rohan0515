@@ -1,6 +1,6 @@
 ![logo](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
 <h1 align="center">Hi 👋, I'm Rohan J A</h1>
-<h3 align="center">A passionate upcoming developer from India</h3>
+<h3 align="center">An inquisitive individual, passionate programmer, exploring the ever-expanding vastness of Computer Science.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
